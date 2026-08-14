@@ -45,7 +45,7 @@ For each of these 10 measurements, the **mean**, **standard error**, and **worst
 
 ## c. GitHub Repository Link
 
-**Repository:** [](https://github.com/Meghs123/machine-learning-assignment-2.git)
+**Repository:** [https://github.com/Meghs123/ml-assignment-2-2025AC05122.git](https://github.com/Meghs123/ml-assignment-2-2025AC05122.git)
 
 **Repository Contents:**
 ```
@@ -108,7 +108,7 @@ Five classification models were trained on the Breast Cancer Wisconsin dataset. 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Meghs123/machine-learning-assignment-2.git
+   git clone https://github.com/Meghs123/ml-assignment-2-2025AC05122.git
    cd ml-assignment-2
    ```
 
@@ -132,7 +132,7 @@ Five classification models were trained on the Breast Cancer Wisconsin dataset. 
 
 ## Live Streamlit App
 
-**Deployed App:** [](https://YOUR_APP_URL.streamlit.app)
+**Deployed App:** []()
 
 ---
 
