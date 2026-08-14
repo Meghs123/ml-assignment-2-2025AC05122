@@ -132,13 +132,13 @@ Five classification models were trained on the Breast Cancer Wisconsin dataset. 
 
 ## Live Streamlit App
 
-**Deployed App:** []()
+**Deployed App:** [https://ml-assignment-2-2025ac05122-r2qfwztgyxfmpgjkdzzqcs.streamlit.app/](https://ml-assignment-2-2025ac05122-r2qfwztgyxfmpgjkdzzqcs.streamlit.app/)
 
 ---
 
 ## Technologies Used
 
-- Python 3.10
+- Python 3.11
 - Streamlit (web app framework)
 - Scikit-learn (ML models and metrics)
 - Pandas & NumPy (data handling)
